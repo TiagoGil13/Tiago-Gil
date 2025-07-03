@@ -1,5 +1,5 @@
 # 💫 About Me:Tiago Gil
-Olá, eu sou Nicolas Bitencurt 👋<br>💻 Estudante de Analise e Desenvolvimento de Sistemas | Técnico em TI | Desenvolvedor em formação | Customer Success<br>Estou sempre em busca de aprendizado e crescimento acadêmico, profissional e pessoal. Caso tenha interesse em conectar ou saber mais sobre meu trabalho, ficarei feliz em trocar ideias! 🚀<br>
+Olá, eu sou Tiago Gil 👋<br>💻 Estudante de Analise e Desenvolvimento de Sistemas | Técnico em TI | Desenvolvedor em formação | Customer Success<br>Estou sempre em busca de aprendizado e crescimento acadêmico, profissional e pessoal. Caso tenha interesse em conectar ou saber mais sobre meu trabalho, ficarei feliz em trocar ideias! 🚀<br>
 
 
 # 💻 Tech Stack:
